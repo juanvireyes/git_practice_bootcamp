@@ -1,0 +1,22 @@
+.about-title {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    color: crimson;
+}
+
+.about-container {
+    display: flex;
+    background-color: black;
+}
+
+.about-paragraph {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    font-style: oblique;
+    color: darkgray;
+}
+
+.image {
+    width: 80%;
+    height: 80%;
+}
