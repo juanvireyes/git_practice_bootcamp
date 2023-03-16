@@ -2,6 +2,27 @@
     background-color: rgba(39, 37, 37, 0.107);
 }
 
+.header {
+    height: 50px;
+    width: 100%;
+    padding: 15px auto;
+}
+
+.fst-button, .snd-button {
+    display: inline-block;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    text-shadow: #F4D03F;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
 .title-container {
     text-align: center;
     background-color: rgba(39, 37, 37, 0.107);
