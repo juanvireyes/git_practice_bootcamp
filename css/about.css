@@ -5,8 +5,10 @@
 }
 
 .about-container {
-    display: flex;
     background-color: black;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
 }
 
 .about-paragraph {
@@ -17,6 +19,7 @@
 }
 
 .image {
-    width: 80%;
-    height: 80%;
+    width: 30%;
+    height: 30%;
+    background-color: antiquewhite;
 }
